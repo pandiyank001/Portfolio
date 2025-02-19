@@ -123,12 +123,7 @@ const dataportfolio = [
         description: "The Docker For Nodejs",
         link: "https://github.com/pandiyank001/Devopsassessment",
     },
-   
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "https://github.com/pandiyank001",
-    },
+
    
 ];
 
@@ -142,7 +137,7 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com/pandiyank001",
+    github: "https://github.com/pandiyankrishna/",
     facebook: "https://facebook.com",
     linkedin: "https://www.linkedin.com/in/pandiyank01/",
     twitter: "https://twitter.com",
